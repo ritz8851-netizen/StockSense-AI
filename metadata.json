@@ -1,0 +1,8 @@
+{
+  "name": "StockSense — Smart Inventory Predictor",
+  "description": "AI-powered inventory management and demand forecasting platform with automated reorder planning, real sales analytics, supplier management, and StockSense AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
